@@ -12,7 +12,7 @@ then
 npm install -g @vue/cli
 ```
 
-# Update Vue
+## Update Vue
 
 ```
 npm update -g @vue/cli
