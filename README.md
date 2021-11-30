@@ -1,4 +1,5 @@
-# vue-ui
+# Modul Vue Js 
+- [Documentation](https://github.com/indrysfa/learn-vuejs/blob/main/src/README.md)
 
 ## Project setup
 
